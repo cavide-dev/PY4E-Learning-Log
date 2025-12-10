@@ -1,0 +1,11 @@
+From: cavide@k.com
+Subject: Python is Amazing!
+Date: Sat, 05 Jan 2025
+To: out@example.com
+
+Hello! This file was automatically created by a Python script.
+It simulates a real email log for data processing practice.
+
+From: mentor@out.org
+Subject: Meeting Reminder
+Date: Sun, 06 Jan 2025
