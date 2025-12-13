@@ -21,9 +21,11 @@ In this repository, I focus on:
 * **Environment:** Git & GitHub
 
 ## 🎓 Certificates
-🔗 **Verified Certificate:** [View on Coursera](https://coursera.org/verify/M76WW84E6RY8)
+- **Programming for Everybody (Getting Started with Python) – University of Michigan**
+  🔗 **Verified Certificate:** [View on Coursera](https://coursera.org/verify/M76WW84E6RY8)
 
-🔗 **Verified Certificate:** [View on Coursera](https://coursera.org/verify/YDH1GDWENVKY)
+- **Python Data Structures - University of Michigan**
+  🔗 **Verified Certificate:** [View on Coursera](https://coursera.org/verify/YDH1GDWENVKY)
 
 ---
 ### ⚠️ Academic Integrity Disclaimer
